@@ -1,8 +1,12 @@
-# Pandas Tutorial
-This repository contains a tutorial of the python library, Pandas.
+# Pandas DataFrame Tutorial
 
-The jupyter notebook file contains all of the details of the tutorial.
+Ready to get your feet wet with Pandas?
+Well, this is a perfect place to start!
 
-Two included csv files were downloaded from the below datasource to be used as sample datasets.
+This repository is a tutorial for Pandas with a focus on using DataFrame for data analysis.
 
-Datasource: https://www.kaggle.com/lava18/google-play-store-apps
+Pick the viewing format that suites your fancy and jump right in:
+- [View as HTML](1_Panda_DataFrame_Tutorial.html)
+- Clone and run locally
+- Run in Docker *Coming Soon*
+
